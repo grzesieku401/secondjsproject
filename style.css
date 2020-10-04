@@ -1,3 +1,24 @@
+.container{
+    width: 800px;
+    margin: 0 auto;
+}
+
+table{
+    width: 100%;
+}
+
 h1{
-    border-bottom: solid #4f4a4abf;
+    border-bottom: solid #4f4a4a7e;
+    padding-bottom: 20px;
+    color: #555555;
+}
+
+th{
+    text-align: left;
+    background-color: #2e2e2e;
+    color: #fff;
+}
+
+th,td{
+    padding: 10px;
 }
