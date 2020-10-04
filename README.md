@@ -1,1 +1,1 @@
-# secondjsproject
+My second JavaScript project.
