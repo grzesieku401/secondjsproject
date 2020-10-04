@@ -1,3 +1,7 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 .container{
     width: 800px;
     margin: 0 auto;
@@ -21,4 +25,12 @@ th{
 
 th,td{
     padding: 10px;
+}
+
+.asc{
+    background-color: #1d5670;
+}
+
+.desc{
+    background-color: #243504;
 }
